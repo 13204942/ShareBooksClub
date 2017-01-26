@@ -1,5 +1,5 @@
-# ReadingClub
-ReadingClub is a social app for people who wants to share books with others
+# ShareBooksClub
+ShareBooksClub is a social app for people who wants to share books with others
 
 Start MongoDB first:
 
